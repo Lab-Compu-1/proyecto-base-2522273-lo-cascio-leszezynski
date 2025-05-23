@@ -1,0 +1,28 @@
+** Drc report for UccMicroDuino.kicad_pcb **
+** Created on 2025-05-12T20:24:55-0300 **
+
+** Found 5 DRC violations **
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(202,0000 mm, 131,0000 mm): Polígono en Edge.Cuts
+    @(202,0000 mm, 98,7500 mm): Reference field of D1
+[lib_footprint_issues]: Huella 'SOIC-8W_5.3x5.3mm_P1.27mm' no encontrada en la biblioteca 'Package_SO'.
+    Anulación local; warning
+    @(228,0000 mm, 116,5000 mm): Huella U1
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(205,0000 mm, 101,3500 mm): Reference field of R1
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(202,8900 mm, 101,4100 mm): Segmento of D1 on F.Silkscreen
+    @(205,0000 mm, 101,3500 mm): Reference field of R1
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(205,1100 mm, 101,4100 mm): Segmento of D1 on F.Silkscreen
+    @(205,0000 mm, 101,3500 mm): Reference field of R1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

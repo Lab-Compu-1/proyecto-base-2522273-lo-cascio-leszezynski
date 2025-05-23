@@ -1,0 +1,28 @@
+Info: Procesando el símbolo 'C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Procesando el símbolo 'D1:Diode_SMD:D_MiniMELF'.
+Info: Procesando el símbolo 'D2:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D3:ledSmd:ledSMD'.
+Info: Procesando el símbolo 'D5:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D6:ledSmd:ledSMD'.
+Info: Procesando el símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J2:embeddedPcbUsb:USB_A_UCC'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'U1:Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm'.
+Agregado R7 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R7.
+Valor R7 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a R_Small.
+Asociación de símbolos R7 actualizada de  a /6fbe3616-7962-457a-b64a-1f07d2946422.
+Actualizar campos R7.
+Se actualizó el nombre de la hoja R7 a '/'.
+Se actualizó el archivo de hoja R7 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de R7 a 'R_*'.
+Aviso: No se encontró red para el componente R7 pad 1 (no hay pin 1 en el símbolo).
+Aviso: No se encontró red para el componente R7 pad 2 (no hay pin 2 en el símbolo).
+
+
+Info: Número de avisos: 2, errores: 0.
