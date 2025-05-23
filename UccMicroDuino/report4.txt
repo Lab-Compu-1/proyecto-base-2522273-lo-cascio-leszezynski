@@ -1,0 +1,148 @@
+Info: Procesando el símbolo 'C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Procesando el símbolo 'D3:ledSmd:ledSMD'.
+Info: Procesando el símbolo 'D5:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'D1:Diode_SMD:D_MiniMELF'.
+Info: Procesando el símbolo 'D2:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D6:ledSmd:ledSMD'.
+Info: Procesando el símbolo 'J2:embeddedPcbUsb:USB_A_UCC'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'U1:Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm'.
+C1 pin 2 conectado a GND.
+C1 pin 1 conectado a +5V.
+Agregado D1 (huella 'Diode_SMD:D_MiniMELF').
+Indicador de referencia cambiado de REF** a D1.
+Valor D1 cambiado de D_MiniMELF a D_Filled.
+Asociación de símbolos D1 actualizada de  a /ec363ca7-9f6b-4b25-b8df-2ef26ff06ad9.
+Actualizar campos D1.
+Se actualizó el nombre de la hoja D1 a '/'.
+Se actualizó el archivo de hoja D1 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de D1 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D1 pin 2 conectado a Net-(D1-A).
+D1 pin 1 conectado a +5V.
+Agregado D2 (huella 'Diode_SMD:D_SOD-123').
+Indicador de referencia cambiado de REF** a D2.
+Valor D2 cambiado de D_SOD-123 a D_Zener.
+Asociación de símbolos D2 actualizada de  a /25411291-d1c6-47f7-b371-c9e89490bee3.
+Se actualizó el nombre de la hoja D2 a '/'.
+Se actualizó el archivo de hoja D2 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de D2 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D2 pin 2 conectado a GND.
+D2 pin 1 conectado a Net-(D2-K).
+Agregado D3 (huella 'ledSmd:ledSMD').
+Indicador de referencia cambiado de REF** a D3.
+Valor D3 cambiado de led** a LED.
+Asociación de símbolos D3 actualizada de  a /10997108-4d28-41d5-89fd-26fd3e77510d.
+Se actualizó el nombre de la hoja D3 a '/'.
+Se actualizó el archivo de hoja D3 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de D3 a 'LED* LED_SMD:* LED_THT:*'.
+D3 pin 1 conectado a Net-(D3-K).
+D3 pin 2 conectado a +5V.
+Agregado D5 (huella 'Diode_SMD:D_SOD-123').
+Indicador de referencia cambiado de REF** a D5.
+Valor D5 cambiado de D_SOD-123 a D_Zener.
+Asociación de símbolos D5 actualizada de  a /b460533d-58ae-4828-bc0b-397dfa8802ca.
+Se actualizó el nombre de la hoja D5 a '/'.
+Se actualizó el archivo de hoja D5 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de D5 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D5 pin 1 conectado a Net-(D5-K).
+D5 pin 2 conectado a GND.
+Agregado D6 (huella 'ledSmd:ledSMD').
+Indicador de referencia cambiado de REF** a D6.
+Valor D6 cambiado de led** a LED.
+Asociación de símbolos D6 actualizada de  a /cf927dfd-6360-4133-b298-2ca6a1cf0ef0.
+Se actualizó el nombre de la hoja D6 a '/'.
+Se actualizó el archivo de hoja D6 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de D6 a 'LED* LED_SMD:* LED_THT:*'.
+D6 pin 1 conectado a Net-(D6-K).
+D6 pin 2 conectado a Net-(D6-A).
+Agregado J1 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J1.
+Valor J1 cambiado de PinHeader_1x10_P2.54mm_Vertical a Conn_01x10_Socket.
+Asociación de símbolos J1 actualizada de  a /43f917b8-7bd2-489e-9718-7e0381f2a8f7.
+Se actualizó el nombre de la hoja J1 a '/'.
+Se actualizó el archivo de hoja J1 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de J1 a 'Connector*:*_1x??_*'.
+J1 pin 10 conectado a unconnected-(J1-Pin_10-Pad10).
+J1 pin 5 conectado a Net-(D6-A).
+J1 pin 9 conectado a Net-(J1-Pin_9).
+J1 pin 2 conectado a GND.
+J1 pin 8 conectado a Net-(J1-Pin_8).
+J1 pin 7 conectado a Net-(J1-Pin_7).
+J1 pin 6 conectado a Net-(J1-Pin_6).
+J1 pin 3 conectado a unconnected-(J1-Pin_3-Pad3).
+J1 pin 4 conectado a Net-(J1-Pin_4).
+J1 pin 1 conectado a +5V.
+Agregado C1 (huella 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Agregado J2 (huella 'embeddedPcbUsb:USB_A_UCC').
+Indicador de referencia cambiado de J1 a J2.
+Valor J2 cambiado de USB_PCB_A a USB_A.
+Asociación de símbolos J2 actualizada de  a /77930420-63c6-4391-9ed3-fb6ce2bbc1cf.
+Actualizar campos J2.
+Se actualizó el nombre de la hoja J2 a '/'.
+Se actualizó el archivo de hoja J2 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de J2 a 'USB*'.
+J2 pin 3 conectado a Net-(D5-K).
+J2 pin 2 conectado a Net-(D2-K).
+J2 pin 1 conectado a Net-(D1-A).
+J2 pin 4 conectado a GND.
+Indicador de referencia cambiado de REF** a C1.
+Agregado R1 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1.5k ohms.
+Asociación de símbolos R1 actualizada de  a /1ad09e81-a9e6-4168-ab8f-f6dc88a2ffca.
+Se actualizó el nombre de la hoja R1 a '/'.
+Se actualizó el archivo de hoja R1 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de R1 a 'R_*'.
+R1 pin 2 conectado a Net-(D2-K).
+R1 pin 1 conectado a +5V.
+Valor C1 cambiado de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder a C.
+Agregado R3 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 330k ohms 5% 1/8w.
+Asociación de símbolos R3 actualizada de  a /bde92772-571d-4b4b-ac5d-6c7045d79971.
+Se actualizó el nombre de la hoja R3 a '/'.
+Se actualizó el archivo de hoja R3 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de R3 a 'R_*'.
+R3 pin 1 conectado a Net-(D6-K).
+R3 pin 2 conectado a GND.
+Asociación de símbolos C1 actualizada de  a /da643e3a-5687-42a8-97a3-22d535a08b74.
+Agregado R4 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 68k ohms 5% 1/8w.
+Asociación de símbolos R4 actualizada de  a /1a8645c7-5e95-4fde-ae58-4cd386135a8a.
+Se actualizó el nombre de la hoja R4 a '/'.
+Se actualizó el archivo de hoja R4 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de R4 a 'R_*'.
+R4 pin 2 conectado a Net-(J1-Pin_7).
+R4 pin 1 conectado a Net-(D2-K).
+Se actualizó el nombre de la hoja C1 a '/'.
+Agregado R5 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 68k ohms 5% 1/8w.
+Asociación de símbolos R5 actualizada de  a /d33fbf75-70f2-4f03-a3d5-41e6760070d5.
+Se actualizó el nombre de la hoja R5 a '/'.
+Se actualizó el archivo de hoja R5 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de R5 a 'R_*'.
+R5 pin 1 conectado a Net-(J1-Pin_8).
+R5 pin 2 conectado a Net-(D5-K).
+Se actualizó el archivo de hoja C1 a 'UccMicroDuino.kicad_sch'.
+Agregado R6 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R6.
+Valor R6 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 220k ohms.
+Asociación de símbolos R6 actualizada de  a /bdb79730-bd9f-4ad4-960b-9799fb539cad.
+Se actualizó el nombre de la hoja R6 a '/'.
+Se actualizó el archivo de hoja R6 a 'UccMicroDuino.kicad_sch'.
+Se actualizaron los filtros de huella de R6 a 'R_*'.
+R6 pin 1 conectado a Net-(D3-K).
+R6 pin 2 conectado a GND.
+Se actualizaron los filtros de huella de C1 a 'C_*'.
+Huella no utilizada R7 eliminada.
+Error: No puede agregarse U1 (no se ha encontrado la huella 'Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm').
+
+
+Info: Número de avisos: 0, errores: 1.
